@@ -1,5 +1,5 @@
 <h1 align="center"> Sergio villa Estévez</h1>
-<h3 align="center">Un apasionado de la progrmacion pero enfocado en el Desarrollo Backend</h3>
+<h3 align="center">Un apasionado de la programación pero enfocado en el Desarrollo Backend</h3>
 
 - 🔭 Actualmente estoy desarrollando un videojuego 2d, que contenga aplicacion web,y este en Android y Pc para poder utilizar la mayoria de tecnologias que he aprendido hasta el momento **IKO GAMES**
 
