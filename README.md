@@ -1,13 +1,12 @@
-<h1 align="center">Hi 👋, I'm Sergio villa Estévez</h1>
-<h3 align="center">A passionate backend developer from Spain</h3>
+<h1 align="center"> Sergio villa Estévez</h1>
+<h3 align="center">Un apasionado de la progrmacion pero enfocado en el Desarrollo Backend</h3>
 
-- 🔭 I’m currently working on **Biblioteca, Generador de contraseña.**
+- 🔭 Actualmente estoy desarrollando un videojuego 2d, que contenga aplicacion web,y este en Android y Pc para poder utilizar la mayoria de tecnologias que he aprendido hasta el momento **IKO GAMES**
 
-- 🌱 I’m currently learning **Spring Boot, MVC.**
+- 🌱 Actualmente estoy aprendiendo **Spring, Monolito,Arquitectura de microservicios, etc**
 
-- 📫 How to reach me **sergiovillaestevez@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
+- 📫 Puedes ponerte en contacto conmigo via e-mail **sergiovillaestevez@gmail.com**
+  
 <p align="left">
 <a href="https://linkedin.com/in/sergio villa estévez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sergio villa estévez" height="30" width="40" /></a>
 </p>
