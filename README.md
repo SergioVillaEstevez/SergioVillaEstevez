@@ -6,7 +6,7 @@
 - 🌱 Actualmente estoy aprendiendo **Spring, Monolito,Arquitectura de microservicios, etc**
 
 - 📫 Puedes ponerte en contacto conmigo via e-mail **sergiovillaestevez@gmail.com**
-  
+<h3>Tambien puedes encontrarme en: </h3> 
 <p align="left">
 <a href="https://linkedin.com/in/sergio villa estévez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sergio villa estévez" height="30" width="40" /></a>
 </p>
