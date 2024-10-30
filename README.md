@@ -1,7 +1,9 @@
 <h1 align="center"> Sergio villa Estévez</h1>
 <h3 align="center">Un apasionado de la programación enfocado en el Desarrollo Backend</h3>
 
-- 🔭 Actualmente estoy desarrollando un videojuego 2d, que contenga aplicacion web,y este en Android y Pc para poder utilizar la mayoria de tecnologias que he aprendido hasta el momento **IKO GAMES**
+- Actualmente estoy desarrollando un aplicacion que se trata de una red social de videojuegos, NeiverHub, para Android
+
+- 🔭 Tambien estoy desarrollando un videojuego 2d, que contenga aplicacion web, este en Android y Pc para poder utilizar la mayoria de tecnologias que he aprendido hasta el momento **IKO GAMES**
 
 - 🌱 Actualmente estoy aprendiendo **Spring, Monolito,Arquitectura de microservicios, etc**
 
